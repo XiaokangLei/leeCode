@@ -20,7 +20,7 @@ public:
         if(res_len > length){
             return;
         }
-        //str[res_len] = '\0';
+        // 从后向前替换
         int index = res_len - 1;
         for(int j = pre_len - 1; j >= 0; j--){
             if(str[j] == ' '){
