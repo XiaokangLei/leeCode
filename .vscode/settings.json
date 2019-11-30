@@ -55,5 +55,6 @@
         "typeinfo": "cpp",
         "string.h": "c",
         "string": "cpp"
-    } // 效果效果比cpptools要好
+    },
+    "python.pythonPath": "D:\\Anaconda3\\python.exe" // 效果效果比cpptools要好
 }
